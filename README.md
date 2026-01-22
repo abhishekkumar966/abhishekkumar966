@@ -68,4 +68,3 @@
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
-*Replace ******************`your-username`******************, LinkedIn, and email with your real details.*
