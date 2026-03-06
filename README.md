@@ -15,18 +15,16 @@
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend                 ### ⚙️ Backend
 
-* HTML
+* HTML                          * Node.js
 * CSS
 * JavaScript
 * React.js
 * Next js
 * Redux Toolkit
 
-### ⚙️ Backend
 
-* Node.js
 
 ### 🗄️ Database
 
