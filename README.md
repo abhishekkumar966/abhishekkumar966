@@ -2,67 +2,71 @@
 
 💻 **Aspiring Full Stack Web Developer** | 🚀 Building real-world projects | 🇮🇳 India
 
+Welcome to my GitHub! I'm passionate about building clean, scalable web applications and constantly expanding my technical skill set. 
+
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **JavaScript, React & Backend Development**
-* 🧠 Strong interest in **Web Applications & System Design**
-* 🛠️ Working on projects like **Online Car Rental System**
-* 🎯 Goal: Become a **Professional Full Stack Developer**
+* 🌱 Currently mastering **JavaScript, React & Full Stack Development**
+* 🧠 Strong interest in **Web Architecture & System Design**
+* 🛠️ Actively building real-world projects like an **Online Car Rental System**
+* 🎯 Goal: Become a **Professional Full Stack Developer** and contribute to impactful open-source projects.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend                 ### ⚙️ Backend
-
-* HTML                          * Node.js
-* CSS
-* JavaScript
-* React.js
-* Next js
-* Redux Toolkit
-
-
-
-### 🗄️ Database
-
-* MongoDB
-* MySQL
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* VS Code
+| 🌐 Frontend | ⚙️ Backend & Database | 🛠️ Tools |
+| :--- | :--- | :--- |
+| **Languages:** HTML, CSS, JavaScript<br>**Frameworks/Libs:** React.js, Next.js<br>**State Management:** Redux Toolkit | **Backend:** Node.js, PHP<br>**NoSQL:** MongoDB<br>**SQL:** MySQL | Git & GitHub<br>VS Code<br>Postman |
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-* 🚗 **Online Car Rental System**
-  `PHP • MySQL • JavaScript`
+* 🚗 **[Online Car Rental System](link-to-repo)** | `PHP • MySQL • JavaScript`
+  > A comprehensive web platform allowing users to browse, book, and manage car rentals with an admin dashboard for inventory management.
+  > *[🔗 Live Demo](link-to-demo)*
 
-* 🏥 **SmartCare – Hospital Portal**
-  `React.js`
+* 🏥 **[SmartCare – Hospital Portal](link-to-repo)** | `React.js`
+  > A responsive frontend portal designed for healthcare facilities to manage patient appointments and doctor schedules.
+  > *[🔗 Live Demo](link-to-demo)*
 
-* 📱 **TikTok Clone (AI Feed – Planned)**
-  `React • Node.js`
+* 📱 **[TikTok Clone (In Progress)](link-to-repo)** | `React • Node.js • MongoDB`
+  > A full-stack social media application mimicking core TikTok features, with planned integrations for an AI-driven feed.
 
 ---
 
 ## 📊 GitHub Stats
 
+*(Note: Replace `your-github-username` in the links below with your actual username!)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Abhishek's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🌐 Portfolio: Coming Soon
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="link-to-your-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
-
+⭐ **Thanks for stopping by! Feel free to check out my repositories and drop a star if you find something useful.**
