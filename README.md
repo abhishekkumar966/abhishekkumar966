@@ -30,26 +30,37 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 ## 📌 Featured Projects
 
 ### 🚗 Online Car Rental System
-**Stack:** `Nodejs` • `MySQL` • `JavaScript`
+**Stack:** `Node.js` • `MySQL` • `JavaScript`
 * A web platform for managing car rentals with an admin dashboard for inventory management.
-* [🔗 Repository](https://github.com/your-github-username/repo-name) | [🌐 Live Demo](link-to-demo)
+* [🔗 Repository](https://github.com/your-github-username/car-rental-repo) | [🌐 Live Demo](link-to-demo)
 
 ### 🏥 SmartCare – Hospital Portal
 **Stack:** `React.js` • `Tailwind CSS` • `Context API`
 * A responsive portal for healthcare facilities to manage patient appointments and doctor schedules.
-* [🔗 Repository](https://github.com/your-github-username/repo-name) | [🌐 Live Demo](link-to-demo)
+* [🔗 Repository](https://github.com/your-github-username/smartcare-repo) | [🌐 Live Demo](link-to-demo)
 
 ### 📱 TikTok Clone (In Progress)
 **Stack:** `React` • `Node.js` • `MongoDB`
 * A full-stack social media application mimicking core TikTok features with a modern UI.
-* [🔗 Repository](https://github.com/your-github-username/repo-name)
+* [🔗 Repository](https://github.com/your-github-username/tiktok-clone-repo)
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Abhishek's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
 
 ## 🤝 Let's Connect!
 
 <div align="left">
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-kumar-696b04312?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-696b04312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
