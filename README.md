@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 | 🌐 Frontend | ⚙️ Backend & Database | 🛠️ Tools |
 | :--- | :--- | :--- |
-| **Languages:** HTML, CSS, JavaScript<br>**Frameworks/Libs:** React.js, Next.js<br>**State Management:** Redux Toolkit | **Backend:** Node.js, PHP<br>**NoSQL:** MongoDB<br>**SQL:** MySQL | Git & GitHub<br>VS Code<br>Postman |
+| **Languages:** HTML, CSS, JavaScript<br>**Frameworks/Libs:** React.js, Next.js<br>**State Management:** Redux Toolkit | **Backend:** Node.js, Django<br>**NoSQL:** MongoDB<br>**SQL:** MySQL | Git & GitHub<br>VS Code<br>Postman |
 
 ---
 
