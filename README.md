@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 ## 📌 Featured Projects
 
 ### 🚗 Online Car Rental System
-**Stack:** `PHP` • `MySQL` • `JavaScript`
+**Stack:** `Nodejs` • `MySQL` • `JavaScript`
 * A web platform for managing car rentals with an admin dashboard for inventory management.
 * [🔗 Repository](https://github.com/your-github-username/repo-name) | [🌐 Live Demo](link-to-demo)
 
