@@ -17,27 +17,32 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 ## 🧰 Tech Stack
 
-| ⌨️ Languages | 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
-| :--- | :--- | :--- | :--- | :--- |
-| JavaScript | React.js | Node.js | MongoDB | Git & GitHub |
-| Python | Next.js | Django | MySQL | VS Code |
-| C / PHP | Tailwind | Express | PostgreSQL | Postman |
-| TypeScript | Redux | REST APIs | Mongoose | Vercel |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
 
 ## 📌 Featured Projects
 
-* 🚗 **[Online Car Rental System](https://github.com/your-github-username/repo-name)** | `PHP • MySQL • JavaScript`
-  > A web platform for managing car rentals with an admin dashboard for inventory management.
-  > *[🔗 Live Demo](link-to-demo)*
+### 🚗 Online Car Rental System
+**Stack:** `PHP` • `MySQL` • `JavaScript`
+* A web platform for managing car rentals with an admin dashboard for inventory management.
+* [🔗 Repository](https://github.com/your-github-username/repo-name) | [🌐 Live Demo](link-to-demo)
 
-* 🏥 **[SmartCare – Hospital Portal](https://github.com/your-github-username/repo-name)** | `React.js`
-  > A responsive portal for healthcare facilities to manage patient appointments and doctor schedules.
-  > *[🔗 Live Demo](link-to-demo)*
+### 🏥 SmartCare – Hospital Portal
+**Stack:** `React.js` • `Tailwind CSS` • `Context API`
+* A responsive portal for healthcare facilities to manage patient appointments and doctor schedules.
+* [🔗 Repository](https://github.com/your-github-username/repo-name) | [🌐 Live Demo](link-to-demo)
 
-* 📱 **[TikTok Clone (In Progress)](https://github.com/your-github-username/repo-name)** | `React • Node.js • MongoDB`
-  > A full-stack social media application mimicking core TikTok features with a modern UI.
+### 📱 TikTok Clone (In Progress)
+**Stack:** `React` • `Node.js` • `MongoDB`
+* A full-stack social media application mimicking core TikTok features with a modern UI.
+* [🔗 Repository](https://github.com/your-github-username/repo-name)
 
 ---
 
@@ -46,9 +51,7 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Abhishek's GitHub Streak" />
-</div>
-
-<div align="center">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -56,7 +59,7 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 ## 🤝 Let's Connect!
 
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -66,7 +69,7 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
 
 ---
 
