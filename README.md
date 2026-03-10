@@ -44,23 +44,12 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 * A full-stack social media application mimicking core TikTok features with a modern UI.
 * [🔗 Repository](https://github.com/your-github-username/repo-name)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Abhishek's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-kumar-696b04312?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
