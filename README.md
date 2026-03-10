@@ -17,26 +17,27 @@ Welcome to my GitHub! I'm passionate about building clean, scalable web applicat
 
 ## 🧰 Tech Stack
 
-| ⌨️ Languages | 🌐 Frontend | ⚙️ Backend & DB | 🛠️ Tools |
-| :--- | :--- | :--- | :--- |
-| **Primary:** <br> JavaScript, Python, C | **Frameworks:** <br> React.js, Next.js | **Server:** <br> Node.js, Django | **Version Control:** <br> Git & GitHub |
-| **Logic:** <br> PHP, TypeScript | **Styling:** <br> HTML, CSS, Tailwind | **Databases:** <br> MongoDB, MySQL | **Development:** <br> VS Code, Postman |
-| **State:** <br> Redux Toolkit | **Libraries:** <br> Framer Motion | **API:** <br> RESTful APIs | **Deployment:** <br> Vercel, Netlify |
+| ⌨️ Languages | 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
+| :--- | :--- | :--- | :--- | :--- |
+| JavaScript | React.js | Node.js | MongoDB | Git & GitHub |
+| Python | Next.js | Django | MySQL | VS Code |
+| C / PHP | Tailwind | Express | PostgreSQL | Postman |
+| TypeScript | Redux | REST APIs | Mongoose | Vercel |
 
 ---
 
 ## 📌 Featured Projects
 
 * 🚗 **[Online Car Rental System](https://github.com/your-github-username/repo-name)** | `PHP • MySQL • JavaScript`
-  > A comprehensive web platform allowing users to browse, book, and manage car rentals with an admin dashboard for inventory management.
+  > A web platform for managing car rentals with an admin dashboard for inventory management.
   > *[🔗 Live Demo](link-to-demo)*
 
 * 🏥 **[SmartCare – Hospital Portal](https://github.com/your-github-username/repo-name)** | `React.js`
-  > A responsive frontend portal designed for healthcare facilities to manage patient appointments and doctor schedules.
+  > A responsive portal for healthcare facilities to manage patient appointments and doctor schedules.
   > *[🔗 Live Demo](link-to-demo)*
 
 * 📱 **[TikTok Clone (In Progress)](https://github.com/your-github-username/repo-name)** | `React • Node.js • MongoDB`
-  > A full-stack social media application mimicking core TikTok features, with planned integrations for an AI-driven feed.
+  > A full-stack social media application mimicking core TikTok features with a modern UI.
 
 ---
 
