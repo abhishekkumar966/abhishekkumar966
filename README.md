@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;AI+Enthusiast;React+%7C+Next.js+Developer;FastAPI+Developer;DevOps+Learner;Always+Learning+New+Technologies" />
 
-### 💻 Full Stack Developer | 🐍 Python Developer | 🤖 AI Enthusiast | ☁️ DevOps Learner
+###  Full Stack Developer |  Python Developer |  AI Enthusiast |  DevOps Learner
 
 <img src="https://komarev.com/ghpvc/?username=abhishekkumar966&style=for-the-badge&color=blue" alt="Profile Views"/>
 
@@ -13,18 +13,18 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 💻 Passionate Full Stack Developer with expertise in modern web technologies
-- 🌱 Currently learning **AI Engineering, LLMs, Cloud & DevOps**
-- 🤖 Building AI-powered applications using **FastAPI, Whisper, LangChain & ChromaDB**
-- ⚡ Interested in **Backend Development, System Design & Cloud Architecture**
-- 📚 Constantly learning new technologies and building real-world projects
-- 🎯 Goal: Become a Professional AI-Powered Full Stack Engineer
+-  Passionate Full Stack Developer with expertise in modern web technologies
+-  Currently learning **AI Engineering, LLMs, Cloud & DevOps**
+-  Building AI-powered applications using **FastAPI, Whisper, LangChain & ChromaDB**
+-  Interested in **Backend Development, System Design & Cloud Architecture**
+-  Constantly learning new technologies and building real-world projects
+-  Goal: Become a Professional AI-Powered Full Stack Engineer
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -38,97 +38,97 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🎥 VideoPilot AI
+##  VideoPilot AI
 
 **Tech Stack:** React • FastAPI • Python • Whisper AI • LangChain • ChromaDB • Docker • AWS
 
 ### Features
 
-- 🎙 AI Speech-to-Text
-- 💬 Chat with Video (RAG)
-- 📝 AI Summaries
-- ✅ Action Item Extraction
-- 📌 Key Decisions
-- 🌍 English & Hinglish Support
+-  AI Speech-to-Text
+-  Chat with Video (RAG)
+-  AI Summaries
+-  Action Item Extraction
+-  Key Decisions
+-  English & Hinglish Support
 
 🔗 Repository: https://github.com/abhishekkumar966/VideoPilot-AI
 
 ---
 
-## 💊 Pharmacy Management System
+##  Pharmacy Management System
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Redux Toolkit
 
 ### Features
 
-- 💊 Inventory Management
-- 🧾 Billing System
-- 📦 Purchase & Sales
-- 🔄 Returns & Refunds
-- 📊 Dashboard & Analytics
-- 🔍 Batch & Expiry Tracking
+-  Inventory Management
+-  Billing System
+-  Purchase & Sales
+-  Returns & Refunds
+-  Dashboard & Analytics
+-  Batch & Expiry Tracking
 
 🔗 Repository: https://github.com/abhishekkumar966/pharmacy-management-system
 
 ---
 
-## 🍽 Restaurant Ordering Platform
+##  Restaurant Ordering Platform
 
 **Tech Stack:** React • TypeScript • Tailwind CSS
 
 ### Features
 
-- 🍕 Online Food Ordering
-- 📍 Location Selection
-- 🪑 Table Reservation
-- 📱 Responsive Design
+-  Online Food Ordering
+-  Location Selection
+-  Table Reservation
+-  Responsive Design
 
 🔗 Repository: https://github.com/abhishekkumar966/restaurant-platform
 
 ---
 
-## 🚗 Online Car Rental System
+##  Online Car Rental System
 
 **Tech Stack:** Node.js • Express.js • MySQL
 
 ### Features
 
-- 🚗 Vehicle Booking
-- 👤 Customer Dashboard
-- 🛠 Admin Dashboard
-- 💳 Booking Management
+-  Vehicle Booking
+-  Customer Dashboard
+-  Admin Dashboard
+-  Booking Management
 
 🔗 Repository: https://github.com/abhishekkumar966/car-rental-system
 
 ---
 
-## 🏥 SmartCare Hospital Portal
+##  SmartCare Hospital Portal
 
 **Tech Stack:** React • Tailwind CSS • Node.js • MongoDB
 
 ### Features
 
-- 👨‍⚕️ Doctor Management
-- 📅 Appointment Booking
-- 👤 Patient Records
-- 📊 Admin Dashboard
+-  Doctor Management
+-  Appointment Booking
+-  Patient Records
+-  Admin Dashboard
 
 🔗 Repository: https://github.com/abhishekkumar966/smartcare
 
 ---
 
-## 📱 TikTok Clone
+##  TikTok Clone
 
 **Tech Stack:** React • Node.js • MongoDB • Socket.IO
 
 ### Features
 
-- 🎥 Video Upload
-- ❤️ Likes & Comments
-- 👥 Follow System
-- 🔔 Real-time Notifications
+-  Video Upload
+-  Likes & Comments
+-  Follow System
+-  Real-time Notifications
 
 🔗 Repository: https://github.com/abhishekkumar966/tiktok-clone
 
@@ -150,7 +150,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -160,7 +160,7 @@
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -170,7 +170,7 @@
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -196,13 +196,13 @@
 
 <div align="center">
 
-## 💡 Quote
+##  Quote
 
 > **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+ **If you like my work, consider giving a star to my repositories!**
 
 **Thanks for visiting my profile! 🚀**
 
